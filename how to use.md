@@ -7,7 +7,7 @@ Introduction:
   
  1) Click on clone and download file     -> extract all files    ->  move folder to eclipse working directory    ->   import the project into eclipse   -> run the tomcat, mongodb    ->  Run the Application as spring boot application  
  
- 2)To test the application on Browser open Chrome ---> Enter URl ---> Http://localhost:8080/  ----> Test the Application
+ 2)  To test the application on Browser open Chrome ---> Enter URl ---> Http://localhost:8080/  ----> Test the Application
  
  
  3) To Test the Application On Postman  Enter Url ( localhost:8080/api_functions )
